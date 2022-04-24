@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\bin\Debug\net5.0\DirectioriesAndFiles(v2).exe
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\bin\Debug\net5.0\DirectioriesAndFiles(v2).deps.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\bin\Debug\net5.0\DirectioriesAndFiles(v2).runtimeconfig.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\bin\Debug\net5.0\DirectioriesAndFiles(v2).runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\bin\Debug\net5.0\DirectioriesAndFiles(v2).dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\bin\Debug\net5.0\ref\DirectioriesAndFiles(v2).dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\bin\Debug\net5.0\DirectioriesAndFiles(v2).pdb
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\ref\DirectioriesAndFiles(v2).dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).pdb
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\DirectioriesAndFiles(v2)\obj\Debug\net5.0\DirectioriesAndFiles(v2).genruntimeconfig.cache

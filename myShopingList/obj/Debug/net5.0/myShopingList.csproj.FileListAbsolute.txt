@@ -1,0 +1,16 @@
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\bin\Debug\net5.0\myShopingList.exe
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\bin\Debug\net5.0\myShopingList.deps.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\bin\Debug\net5.0\myShopingList.runtimeconfig.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\bin\Debug\net5.0\myShopingList.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\bin\Debug\net5.0\myShopingList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\bin\Debug\net5.0\ref\myShopingList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\bin\Debug\net5.0\myShopingList.pdb
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.csproj.AssemblyReference.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\ref\myShopingList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.pdb
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\myShopingList\obj\Debug\net5.0\myShopingList.genruntimeconfig.cache

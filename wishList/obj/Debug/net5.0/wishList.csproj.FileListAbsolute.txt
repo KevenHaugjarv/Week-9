@@ -1,0 +1,15 @@
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\bin\Debug\net5.0\wishList.exe
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\bin\Debug\net5.0\wishList.deps.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\bin\Debug\net5.0\wishList.runtimeconfig.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\bin\Debug\net5.0\wishList.runtimeconfig.dev.json
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\bin\Debug\net5.0\wishList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\bin\Debug\net5.0\ref\wishList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\bin\Debug\net5.0\wishList.pdb
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\wishList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\wishList.AssemblyInfoInputs.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\wishList.AssemblyInfo.cs
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\wishList.csproj.CoreCompileInputs.cache
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\wishList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\ref\wishList.dll
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\wishList.pdb
+C:\Users\kasutaja\source\repos\DirectoriesAndFiles\wishList\obj\Debug\net5.0\wishList.genruntimeconfig.cache
